@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Meu Portifólio</string>
+    <string name="nome_usuario">Fabrício Pinheiro</string>
+    <string name="sobre_mim">
+        Fabrício Pinheiro é um desenvolvedor Android Jr com uma paixão inigualável pela criação de experiências digitais inovadoras.
+        Possui conhecimentos no desenvolvimento de aplicativos móveis e está ansioso para aprimorar suas habilidades em um ambiente dinâmico e colaborativo.
+        \n\n\n
+
+        <b>Habilidades</b>
+        \n\n
+        <b><font color='#ff0000'>Desenvolvimento Android:</font></b> Especialista em Kotlin, Fabrício possui habilidades no desenvolvimento Android nativo, entregando aplicativos robustos e eficientes.
+        \n\n
+        <b><font color='#ff0000'>Arquitetura de Software:</font></b> Experiente na implementação de arquiteturas modernas como MVVM, Clean Architecture e Jetpack Compose, garantindo código modular e de fácil manutenção.
+        \n\n
+        <b><font color='#ff0000'>Testes Automatizados:</font></b> Firme defensor da qualidade do software, Fabrício implementa testes automatizados de unidade e UI para garantir a estabilidade e a confiabilidade de cada aplicativo.
+        \n\n
+        <b><font color='#ff0000'>Aprendizado Contínuo:</font></b> Além de suas habilidades técnicas, Fabrício gosta de está semore aprendendo novas ferramentas e tecnologias, proporcionando uma base sólida para o futuro.
+        \n\n
+    </string>
+    <string name="btn_projetos">Projetos</string>
+    <string name="btn_contato">Contato</string>
+    <string name="title_toolbar">Contato</string>
+    <string name="title_toolbar_projetos">Projetos</string>
+    <string name="txt_celular">(92) 99508-6461</string>
+    <string name="txt_email">fabriciopinheiro.contato@gmail.com</string>
+    <string name="txt_barbearia">Projeto Barbearia</string>
+    <string name="txt_Pizzaria">Projeto Pizzaria</string>
+    <string name="txt_Marcenaria">Projeto Marcenaria</string>
+    <string name="btn_detahes_projetos">Detalhes do Projeto</string>
+</resources>
